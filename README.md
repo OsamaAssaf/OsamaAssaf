@@ -2,7 +2,9 @@
 
 👀 I’m interested in App development
 
-🌱 I’m currently learning Flutter
+🌱 I have good experience in Flutter.
+
+🌱 I'm currently learning Web Development (Full Stack).
 
 📫 My facebook : https://www.facebook.com/osama.assaf.5
 
