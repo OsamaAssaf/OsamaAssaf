@@ -1,6 +1,6 @@
-👋 Hi, I’m @OsamaAssaf
+👋 Hi, I’m @OsamaAssaf.
 
-👀 I’m interested in App development
+👀 I’m interested in App development.
 
 🌱 I have good experience in Flutter.
 
