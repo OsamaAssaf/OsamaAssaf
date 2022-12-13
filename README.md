@@ -2,7 +2,7 @@
 
 👀 I’m interested in App development.
 
-🌱 I have good experience in Flutter.
+🌱 I have 2 years experience in Flutter.
 
 🌱 I'm currently learning Web Development (Full Stack).
 
