@@ -2,10 +2,10 @@
 
 👀 I’m interested in App development.
 
-🌱 I have 2 years experience in Flutter.
+🌱 I have 2 years of experience in Flutter.
 
-🌱 I'm currently learning Web Development (Full Stack).
+🌱 I have some experience in Web Development (Full Stack).
 
-📫 My facebook : https://www.facebook.com/osama.assaf.5
+📫 Facebook: https://www.facebook.com/osama.assaf.5
 
 📫 Linkedin : www.linkedin.com/in/osama-assaf-392820216
