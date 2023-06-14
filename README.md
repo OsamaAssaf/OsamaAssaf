@@ -1,11 +1,14 @@
 👋 Hi, I’m @OsamaAssaf.
 
-👀 I’m interested in App development.
+👀 I’m passionate about App development and creating innovative solutions.
 
-🌱 I have 2 years of experience in Flutter.
+🌱 With 2 and a half years of experience in Flutter, I have gained extensive expertise in developing cross-platform mobile applications.
 
-🌱 I have some experience in Web Development (Full Stack).
+💻 Additionally, I have dabbled in Web Development, gaining proficiency in both frontend and backend technologies.
 
-📫 Facebook: https://www.facebook.com/osama.assaf.5
+📫 Let's connect:
+   - Email: osama.assaf.y@gmail.com
+   - Facebook: https://www.facebook.com/osama.assaf.5
+   - LinkedIn: www.linkedin.com/in/osama-assaf-392820216
 
-📫 Linkedin : www.linkedin.com/in/osama-assaf-392820216
+Feel free to reach out to me via email or connect with me on social media. I'm excited to collaborate on interesting projects!
