@@ -15,6 +15,12 @@
 - Full Stack WEB internship at Clever Mind POB, where I gained hands-on experience in HTML, CSS, JavaScript, MySQL, and PHP.
 - Self-training in Spring Boot, focusing on mastering back-end development.
 
+📱 Personal Apps in app stores:
+- Random Spin: A Wheel of Fortune app designed to help users choose a random name from a group of names.
+   - Google Play Link: [Random Spin - Apps on Google Play](https://play.google.com/store/apps/details?id=com.osama.randomspin](https://play.google.com/store/apps/details?id=com.assaf.random_spin&hl=en)
+- Flutter Widget Catalog: The ultimate guide to Flutter widgets, offering practical examples, search, and filter options for easy navigation.
+   - Google Play Link: [Flutter Widget Catalog - Apps on Google Play](https://play.google.com/store/apps/details?id=com.osama.flutterwidgetcatalog](https://play.google.com/store/apps/details?id=com.assaf.flutter_widget_catalog&hl=en)
+
 📫 Let's connect:
    - Email: osama.assaf.y@gmail.com
    - LinkedIn: www.linkedin.com/in/osama-assaf-392820216
